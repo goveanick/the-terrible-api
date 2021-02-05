@@ -1,0 +1,23 @@
+{
+  "name": "the-terrible-api",
+  "version": "1.0.0",
+  "description": "My first REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goveanick/the-terrible-api.git"
+  },
+  "author": "Nicolas Govea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goveanick/the-terrible-api/issues"
+  },
+  "homepage": "https://github.com/goveanick/the-terrible-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
